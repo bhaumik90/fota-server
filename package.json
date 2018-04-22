@@ -1,0 +1,15 @@
+{
+  "name": "ota-server",
+  "version": "0.0.1",
+  "description": "Server to facilitate over-the-air updates on devices in 6LoWPAN networks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhaumik Bhandari",
+  "license": "ISC",
+  "dependencies": {
+    "coap": "^0.21.0",
+    "crc": "^3.5.0"
+  }
+}

@@ -1,0 +1,4 @@
+node_modules/
+*.bin
+*.hex
+*.log
